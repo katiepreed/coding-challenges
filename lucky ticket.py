@@ -8,7 +8,7 @@
 # Please note that the number n may be huge.
 
 # INPUT
-# Input contains one integer number n(1 =< n =< 10^100)
+# Input contains one integer number n(1 <= n <= 10^100)
 
 # OUTPUT
 # Print one integr, the minimal ticket number, greater than n, that is a lucky number
