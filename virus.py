@@ -12,14 +12,14 @@
 
 # INPUT
 # The first line contains two numbers n and m: the number of testing groups
-# (1 =< n =< 1000) and the total number of citizens (1 =< m =< 1000)
+# (1 <= n <= 1000) and the total number of citizens (1 <= m <= 1000)
 # the following n lines contain the description of tests
-# Each description starts with a pair of numbers ai , ki, (0 =< ai =< 1, 1 =< ki =< m)
+# Each description starts with a pair of numbers ai , ki, (0 <= ai <= 1, 1 <= ki <= m)
 # the result of the test of the group (if ai = 0, then the test result is "no ifection")
 # (if ai = 1, then the test result is "there is an ifection")
 # and the number of citizens in the tested group. 
 # next in line there are k, distinct integers bij, the numbers of the citizens
-# tested in this group (1 =< bij =< m)
+# tested in this group (1 <= bij <= m)
 # consider citizens numbered from 1 to m. 
 # All nubers in the input are integers. It is guaranteed that the input is consistent. 
 
