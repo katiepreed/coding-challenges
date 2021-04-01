@@ -4,7 +4,7 @@
 # the length of its side are positive integers
 
 # INPUT
-# The only line contains two positive integers p and k (1 =< p, k =< 10^4)
+# The only line contains two positive integers p and k (1 <= p, k <= 10^4)
 # It is guaranteed that for given p and k the lengths of th sides of the rectangle are posititve integers. 
 
 # OUTPUT
