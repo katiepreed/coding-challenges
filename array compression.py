@@ -4,8 +4,8 @@
 # (two sixes, four twos and so on)
 
 # INPUT
-# The first line contains a single integer n(1 =< n =< 2 x 10^4), the number of elements in the array
-# The next line contains n integers a0, a1 , ... , an-1 (1 =< ai =< 10^9) , array elements
+# The first line contains a single integer n(1 <= n <= 2 x 10^4), the number of elements in the array
+# The next line contains n integers a0, a1 , ... , an-1 (1 <= ai <= 10^9) , array elements
 
 # OUTPUT
 # print the compressed array as a sequence of integers separated each by a spcace
@@ -17,7 +17,7 @@ yes = []
 count = 0
 constant = lsts[0]
 
-for i in rnage(len(lsts)):
+for i in range(len(lsts)):
     if constant == lst[i]:
         count += 1
     else:
