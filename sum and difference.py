@@ -4,7 +4,7 @@
 # help them restore the original numbers x and y by given numbers a and b
 
 # INPUT
-# The only input line contains two integers a and b (-10^9 =< a =< 10^9 , -10^9 =< b =< 10^9). 
+# The only input line contains two integers a and b (-10^9 <= a <= 10^9 , -10^9 <= b <= 10^9). 
 # It is guaranteed that for given numbers a and b, the corresponding x and y integers. 
 
 # OUTPUT
