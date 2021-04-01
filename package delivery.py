@@ -6,7 +6,7 @@
 # parcels must not be deivered in any other way than by courier. 
 
 # INPUT
-# the first line of the input contains an integer n(1 =< n =< 1000), the number of packages. 
+# the first line of the input contains an integer n(1 <= n <= 1000), the number of packages. 
 # The second line contains the wights of the packages (each number is either 50 or 100). 
 
 # OUPUT 
