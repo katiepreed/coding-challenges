@@ -21,7 +21,7 @@ if num > 1:
     if (num % i) == 0:
       print(i,"x",num//i,"=",num)
   else:
-    print(num, "is not a prime number")
+    print(num, "is a prime number")
 else:
   print(num, "is not a prime number")
   
